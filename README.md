@@ -19,7 +19,12 @@ Enter the exercise directory and install dependencies:
 
 ```
 cd sql-injection
-npm i
+
+# Windows
+npm i 
+
+# macOS
+sudo npm i
 ```
 
 ## Running
